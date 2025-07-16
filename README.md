@@ -1,5 +1,5 @@
 # 🎮 GameBoy: Arcade Game Hub (Visual Studio + SFML)
-
+**OBJECT ORIENTED PROGRAMMING**
 Welcome to **GameBoy**, a retro-inspired game hub featuring three classic arcade games—**Hangman**, **Snake**, and **Wordle**—developed as a semester project using **C++** and the **SFML** library. Packaged as a Visual Studio project, this hub provides a seamless menu-driven experience to play these games with score tracking and customizable audio settings.
 
 ---

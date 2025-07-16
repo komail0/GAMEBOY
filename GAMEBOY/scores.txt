@@ -1,0 +1,7 @@
+komail : 1520 (Snake)
+waqas : 260 (Wordle)
+Burhan : 950 (Hangman)
+ahmed : 100 (Hangman)
+adil : 100 (Hangman)
+dom : 600 (Hangman)
+ali : 500 (Hangman)

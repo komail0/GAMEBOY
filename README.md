@@ -24,8 +24,8 @@ Welcome to **GameBoy**, a retro-inspired game hub featuring three classic arcade
 
 1. 📥 **Clone the Repository**:
    ```bash
-   git clone https://github.com/komail0/GameBoy.git
-   cd GameBoy
+   git clone https://github.com/komail0/GAMEBOY.git
+   cd GAMEBOY
    ```
 
 2. 📂 **Open the Project**:
